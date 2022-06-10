@@ -1,0 +1,8 @@
+v = int(input("first = "))
+v2= int(input("second = "))
+f1= v%v2  #it is a modulous operator (%)
+print(f1)
+f = v//v2  #flor division operator only gives the integer value(//)
+print(f)
+f3 = v**v2  #it is a exponential operator(**)
+print(f3)
