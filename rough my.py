@@ -6,7 +6,7 @@ def is_leap(year , secondyear):
             print("leap")
         else:
             print("leap")
-l = int(input("enter year "))
+l = int(input("enter first year "))
 m = int(input("enter second year"))
 is_leap(l,m)
 
